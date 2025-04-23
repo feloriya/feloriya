@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Fariba
+AI & Web Developer | Computer Science Graduate | Entrepreneur
 
-<!--
-**feloriya/feloriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me  
+- 💻 Tech-Savvy Since Day One:  
+  - Bachelor’s in *Software Engineering* with top grades (e.g., 20/20 in Assembly Programming).  
+  - Certified in Computer Operations (Basic & Advanced).  
+- 🎨 Multidisciplinary Skills:  
+  - Proficient in Adobe Photoshop, Illustrator, Office Suite, and more.  
+  - Former entrepreneur (2010–2020) in advertising/marketing, certified by the Iran Management Association**.  
+- 🌱 Current Focus:  
+  - Transitioning into AI/Web Development through:  
+    - Harvard’s CS50 (in progress).  
+    - Self-learning Python, Machine Learning, and modern web stacks.  
 
-Here are some ideas to get you started:
+🔧 Technical Skills  
+Languages:  
+- 🎨 Frontend: `HTML5`, `CSS3` (Mastered), `JavaScript` (Learning)  
+- ⚙ Backend: `PHP` (Working Proficiency) , `Python` (Focus: Flask/Django) (Learning)  
+- 🛠 Other: `C`, `Assembly` , VBA (Excel Automation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools:  
+- 🖌 Design: `Adobe Suite`, `Figma`  
+- 📊 Marketing: `SEO`, `Google Analytics` (Past experience)  
+
+🎯 Goals
+- Break into AI/ML roles while leveraging my web design expertise.  
+- Contribute to **open-source AI projects**.  
+
+📫 Let’s Connect  
+- LinkedIn: https://linkedin.com/in/feloriya 
+- Email: feloriya@gmail.com  
