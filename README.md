@@ -35,7 +35,17 @@ Tools:
 - LinkedIn: https://linkedin.com/in/feloriya 
 - Email: feloriya@gmail.com  
 
-# 🌟 Welcome to My Profile!
+
+<div align="center">
+  <a href="https://github.com/feloriya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF9B00&icon_color=FF9B00&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/feloriya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feloriya&layout=compact&theme=radical&bg_color=0D1117&title_color=FF9B00&text_color=FFFFFF" />
+  </a>
+</div>
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873)
