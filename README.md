@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/Banner.png" alt="Fariba's Banner" width="100%">
+</div>
+
 👋 Hi, I'm Fariba
 AI & Web Developer | Computer Science Graduate | Entrepreneur
 
