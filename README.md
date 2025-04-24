@@ -36,24 +36,22 @@ Tools:
 - Email: feloriya@gmail.com  
 
 
-<table style="border:none; border-collapse: collapse; width:100%;">
-  <tr style="border:none;">
-    <td style="border:none; padding:0; width:50%; text-align: center;">
-      <div style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
-        <div style="text-align: center; margin-bottom: 10px;">
-          <h3 style="color:#9053c6; margin:0; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">GitHub Stats</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <div>
+          <h3 style="color:#9053c6; margin:0 auto 10px auto; text-align:center; display:block; width:100%;">GitHub Stats</h3>
+          <img src="https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873&hide_border=true" style="display:block; width:100%;">
         </div>
-        <img src="https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873&hide_border=true" style="display:block; width:100%; margin: 0 auto;"/>
-      </div>
-    </td>
-    <td style="border:none; padding:0; width:50%; text-align: center;">
-      <div style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
-        <div style="text-align: center; margin-bottom: 10px;">
-          <h3 style="color:#9053c6; margin:0; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">Streak Stats</h3>
+      </td>
+      <td width="50%" align="center">
+        <div>
+          <h3 style="color:#9053c6; margin:0 auto 10px auto; text-align:center; display:block; width:100%;">Streak Stats</h3>
+          <img src="https://streak-stats.demolab.com/?user=feloriya&background=FFFFFF&stroke=9053c6&ring=ff449f&fire=ff449f&currStreakNum=fdc873&hide_border=true" style="display:block; width:100%;">
         </div>
-        <img src="https://streak-stats.demolab.com/?user=feloriya&background=FFFFFF&stroke=9053c6&ring=ff449f&fire=ff449f&currStreakNum=fdc873&hide_border=true" style="display:block; width:100%; margin: 0 auto;"/>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
