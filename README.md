@@ -37,16 +37,14 @@ Tools:
 
 # 🌟 Welcome to My Profile!
 
-# Hi there 👋
-
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9B00&icon_color=FF9B00&text_color=FFFFFF)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=feloriya&theme=radical&hide_border=true&background=0D1117&stroke=FF9B00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873)
 
 ## 🚀 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feloriya&repo=feloriya&theme=radical&bg_color=0D1117&title_color=FF9B00)](https://github.com/feloriya/feloriya)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=feloriya&repo=feloriya&bg_color=FFFFFF&title_color=9053c6&text_color=fdc873)](https://github.com/feloriya/feloriya)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feloriya&layout=compact&theme=radical&bg_color=0D1117&title_color=FF9B00&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feloriya&layout=compact&bg_color=FFFFFF&title_color=9053c6&text_color=fdc873)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=feloriya&background=FFFFFF&stroke=9053c6&ring=ff449f&fire=ff449f&currStreakNum=fdc873)
