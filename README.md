@@ -35,26 +35,21 @@ Tools:
 - LinkedIn: https://linkedin.com/in/feloriya 
 - Email: feloriya@gmail.com  
 
+<table style="border:none; border-collapse: collapse; width:100%; table-layout: fixed;">
+  <tr style="border:none;">
 
-<div align="center">
-  <a href="https://github.com/feloriya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF9B00&icon_color=FF9B00&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/feloriya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feloriya&layout=compact&theme=radical&bg_color=0D1117&title_color=FF9B00&text_color=FFFFFF" />
-  </a>
-</div>
-
-
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873)
-
-## 🚀 Top Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=feloriya&repo=feloriya&bg_color=FFFFFF&title_color=9053c6&text_color=fdc873)](https://github.com/feloriya/feloriya)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feloriya&layout=compact&bg_color=FFFFFF&title_color=9053c6&text_color=fdc873)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=feloriya&background=FFFFFF&stroke=9053c6&ring=ff449f&fire=ff449f&currStreakNum=fdc873)
+    <td style="border:none; padding:0; width:50%; vertical-align: top; text-align: center;">
+      <div style="margin: 0 auto 10px; width: fit-content;">
+        <h3 style="color:#9053c6; margin:0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">GitHub Stats</h3>
+      </div>
+      <img src="https://github-readme-stats.vercel.app/api?username=feloriya&show_icons=true&bg_color=FFFFFF&title_color=9053c6&icon_color=ff449f&text_color=fdc873&hide_border=true" style="display:block; width:100%;" />
+    </td>
+    
+    <td style="border:none; padding:0; width:50%; vertical-align: top; text-align: center;">
+      <div style="margin: 0 auto 10px; width: fit-content;">
+        <h3 style="color:#9053c6; margin:0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">Streak Stats</h3>
+      </div>
+      <img src="https://streak-stats.demolab.com/?user=feloriya&background=FFFFFF&stroke=9053c6&ring=ff449f&fire=ff449f&currStreakNum=fdc873&hide_border=true" style="display:block; width:100%;" />
+    </td>
+  </tr>
+</table>
