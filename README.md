@@ -23,6 +23,8 @@ Languages:
 - ⚙ Backend: `PHP` (Working Proficiency) , `Python` (Focus: Flask/Django) (Learning)  
 - 🛠 Other: `C`, `Assembly` , VBA (Excel Automation)
 
+**SVG Animation**: [View Portfolio](https://github.com/feloriya/Svg-Animations)
+
 Tools:  
 - 🖌 Design: `Adobe Suite`, `Figma`  
 - 📊 Marketing: `SEO`, `Google Analytics` (Past experience)  
