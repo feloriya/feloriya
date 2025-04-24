@@ -19,7 +19,7 @@ AI & Web Developer | Computer Science Graduate | Entrepreneur
 
 🔧 Technical Skills  
 Languages:  
-- 🎨 Frontend: `HTML5`, `CSS3` (Mastered), `JavaScript` (Learning)  
+- 🎨 Frontend: `HTML5`, `CSS3` (Mastered), `SVG Animation` (Mastered), `JavaScript` (Learning)  
 - ⚙ Backend: `PHP` (Working Proficiency) , `Python` (Focus: Flask/Django) (Learning)  
 - 🛠 Other: `C`, `Assembly` , VBA (Excel Automation)
 
