@@ -18,7 +18,8 @@ AI & Web Developer | Computer Science Graduate | Entrepreneur
     - Harvard’s CS50 (in progress).  
     - Self-learning Python, Machine Learning, and modern web stacks.  
 
-🔧 Technical Skills  
+🔧 Technical Skills 
+
 Languages:  
 - 🎨 Frontend: `HTML5`, `CSS3` (Mastered), `SVG Animation` (Mastered), `JavaScript` (Learning)  
 - ⚙ Backend: `PHP` (Working Proficiency) , `Python` (Focus: Flask/Django) (Learning)  
