@@ -7,7 +7,8 @@ AI & Web Developer | Computer Science Graduate | Entrepreneur
 
 🚀 About Me  
 - 💻 Tech-Savvy Since Day One:  
-  - Bachelor’s in *Software Engineering* with top grades in programming (e.g., 20/20 in Assembly). 
+  - Bachelor’s in *Software Engineering* with top grades in programming (e.g., 20/20 in Assembly).
+  - Master’s Degree in AI.
   - Certified in Computer Operations (Basic & Advanced).  
 - 🎨 Multidisciplinary Skills:  
   - Proficient in Adobe Photoshop, Illustrator, Office Suite, and more.  
