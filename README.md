@@ -19,6 +19,7 @@ AI & Web Developer | Computer Science Graduate | Entrepreneur
     - Harvard’s CS50 (in progress).  
     - Self-learning Python, Machine Learning, and modern web stacks.  
 
+
 🔧 Technical Skills 
 
 Languages:  
